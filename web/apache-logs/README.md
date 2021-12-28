@@ -1,0 +1,19 @@
+# Apache Logs Challenge
+* Who was let in?
+
+## Challenge Text
+* An apache log file that contains recent traffic was pulled from a web server. There is suspicion that an external host was able to access a sensitive file accidentally placed in one of the company website's directories. Someone's getting fired... 
+* Identify the source IP address that was able to access the file by using the flag format: jctf{IP address}
+
+## Solution
+* Query through the web traffic for a connection by searching for a HTTP 200 OK success status response code. All 404's can be ignored.
+* Identify the accessed sensitive file that was accidentally placed in the website's temporary (tmp) folder - "https://www.davisbank.com/tmp/bankrecords.pdf"
+* Identify the source IP address of the connection - jctf{76.190.52.148}
+
+---
+
+## Challenge Message 
+* TO DO
+
+## Challenge Hints
+* Which directory types should sensitive files not be placed in? 
