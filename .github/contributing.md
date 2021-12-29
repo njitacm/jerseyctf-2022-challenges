@@ -15,7 +15,7 @@
     | [crypto](crypto)
     | [forensics](forensics)
     | [misc](misc)
-    | [pwn](pwn)
+    | [bin](bin)
     | [web](web)
 
 1. Run `python3 ../makeChallenge.py <ChallengeName>` and this will automatically instantiate all the standardization to make a challenge.

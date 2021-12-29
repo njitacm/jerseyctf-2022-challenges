@@ -11,7 +11,7 @@
 [crypto](crypto) | Cryptography
 | [forensics](forensics) | Forensics
 | [misc](misc) | "Potpourri", any challenges! 
-| [pwn](pwn) | Reversing, binary exploitation 
+| [bin](bin) | Reversing, binary exploitation 
 | [web](web) | All types of web exploitation 
 
 ---
