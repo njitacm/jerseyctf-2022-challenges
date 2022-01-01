@@ -5,7 +5,6 @@ Usage: python3 makeChallenge.py <ChallengeName>
 Return(s): 
     ./<ChallengeName>
     ./<ChallengeName>/challenge
-    ./<ChallengeName>/solution
     ./<ChallengeName>/README.md
         --> # <ChallengeName>
 """
