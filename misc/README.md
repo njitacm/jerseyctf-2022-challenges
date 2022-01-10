@@ -18,5 +18,5 @@
 ## Hard Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-|  |  | 
+| [root-me](root-me) | Read the /root/flag.txt file!  | No hints
 |  |  | 
