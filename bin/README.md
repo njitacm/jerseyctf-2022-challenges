@@ -20,5 +20,6 @@
 ## Hard Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
+| [symbolism](symbolism) | My friend sent me this weird file. Whenever I ask him what it is, he just keeps saying something about symbols. | https://archives.loomcom.com/genera/genera-install.html
 |  |  | 
 |  |  | 
