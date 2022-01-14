@@ -2,7 +2,7 @@
 
 A reversing challenge with a binary that runs on a Lisp Machine
 
-Developed by ContronThePanda (GitHub), part of RUSEC.
+Developed by ContronThePanda (GitHub), part of [RUSEC](https://rusec.github.io/).
 
 ## Solution
 
