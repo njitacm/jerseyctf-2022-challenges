@@ -63,6 +63,8 @@ Now we can recover the flag by doing the following:
 
 The (solution folder)[sol] includes a commented Python script with more details.
 
+Flag: `jctf{h1PpiTy_H0PP1tY_a95c4603}`
+
 ---
 
 ## Challenge Message
