@@ -12,7 +12,7 @@
 ## Medium Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-|  |  | 
+| [context-clues](context-clues) | Everyone made a big deal about C++ getting coroutines in 2020, but C has had them for decades if you know where to look. | Remember to look up terms and function names you've never heard of.
 |  |  | 
 |  |  | 
 
