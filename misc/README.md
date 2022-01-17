@@ -10,7 +10,7 @@
 ## Medium Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-| [sho-me-whats-wrong](sho-me-whats-wrong) | A company that provides affordable satellite communication services appears to have devices scattered across the Internet with a known vulnerability. | How do you filter through an Excel spreadsheet for the information you want?
+|  |  | 
 |  |  | 
 |  |  | 
 
