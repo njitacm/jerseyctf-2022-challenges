@@ -11,9 +11,10 @@ Development of Challenges for JerseyCTF 2022, hosted by [NJIT ACM](https://njit.
 | :----:     | :-----:
 | [crypto](crypto) | Cryptography
 | [forensics](forensics) | Forensics
-| [misc](misc) | "Potpourri", any challenges! 
 | [bin](bin) | Reversing, binary exploitation 
 | [web](web) | All types of web exploitation 
+| [osint](osint) | Open-source intelligence
+| [misc](misc) | "Potpourri", any challenges! 
 
 ---
 
