@@ -10,7 +10,7 @@
 ## Medium Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-|  |  | 
+| [buster](buster) | Check out my new site, it has lots of cool pages! | What do HTTP response codes actually mean?
 |  |  | 
 |  |  | 
 
