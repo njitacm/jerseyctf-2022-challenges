@@ -4,6 +4,8 @@ Directory enumeration challenge where every request returns a random HTTP status
 
 NOTE: The provided Python file, `buster.py`, should be run on a server and not be given as part of the challenge; just the URL of the server should be given.
 
+Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
+
 ## Solution
 
 The root webpage has a comment suggesting that this is probably an enumeration challenge;
