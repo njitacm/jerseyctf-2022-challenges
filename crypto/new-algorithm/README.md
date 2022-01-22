@@ -18,4 +18,4 @@ Here's an example of an encrypted email message using the intern's algorithm:
 
 ## Challenge Hints
 
-* Hint: What are some differences between encryption, encoding, and hashing?
+* What are some differences between encryption, encoding, and hashing?
