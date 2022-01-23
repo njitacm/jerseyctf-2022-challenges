@@ -10,7 +10,7 @@
 ## Medium Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-|  |  | 
+| [hidden-in-plain-sight](hidden-in-plain-sight) | A file contains the flag but it is encrypted. | The file looks a little longer than you would expect.
 |  |  | 
 |  |  | 
 
