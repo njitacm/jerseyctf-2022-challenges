@@ -41,7 +41,8 @@ def main(challenge_name):
         f.write(f"## Hint\n")
         f.write(f"* \n\n")
         f.write(f"## Solution\n")
-        f.write(f"* \n\n")
+        f.write(f"* \n")
+        f.write(f"* Flag: `jctf{{}}`\n\n")
         f.write(f"## Credit\n")
         f.write(f"* Developed by [INSERT NAME HERE](INSERT GITHUB PROFILE LINK HERE)")
 
