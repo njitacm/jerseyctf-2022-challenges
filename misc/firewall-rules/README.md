@@ -1,8 +1,7 @@
-# Firewall Rules
-* Liar, Liar, Rules on Fire!
+# firewall-rules
 
 ## Challenge Text
-* A network administrator configured a device's firewall, but made a few errors along the way. Some of your favorite applications may have been denied :( ... We can't worry about that yet, first step is to make sure external hosts aren't able to exploit vulnerable firewall rules.
+* Liar, Liar, Rules on Fire! A network administrator configured a device's firewall, but made a few errors along the way. Some of your favorite applications may have been denied... We can't worry about that yet, first step is to make sure external hosts aren't able to exploit vulnerable firewall rules.
 * Add the ports and put the answer in the flag format: jctf{INSERT NUMBER}
 
 ## Solution
@@ -10,11 +9,5 @@
 * Query through each firewall rule and note that the allowed insecure ports that provide remote access or unencrypted connection are: 513 (rlogin), 23 (telnet), 3389 (RDP)
 * 513 + 23 + 3389 = jctf{3925}
 
-
----
-
-## Challenge Message 
-* TO DO
-
-## Challenge Hints
+## Hint
 * Sometimes Google searches lead to numbers!
