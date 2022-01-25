@@ -35,8 +35,15 @@ def main(challenge_name):
     makeFile(f"{README}")
 
     with open(f"{README}", "r+") as f:
-        f.write(f"# {challenge_name}\n")
-
+        f.write(f"# {challenge_name}\n\n")
+        f.write(f"## Challenge Text\n")
+        f.write(f"* \n\n")
+        f.write(f"## Hint\n")
+        f.write(f"* \n\n")
+        f.write(f"## Solution\n")
+        f.write(f"* \n\n")
+        f.write(f"## Credit\n")
+        f.write(f"* Developed by [INSERT NAME HERE](INSERT GITHUB PROFILE LINK HERE)")
 
 # Ensures that users are using the program correctly
 if __name__ == "__main__":
