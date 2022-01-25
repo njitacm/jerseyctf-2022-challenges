@@ -1,10 +1,14 @@
 # Block Game
 
-Reverse engineering challenge with a module for the game Terasology
+## Challenge Text
+* There's mining, and there's crafting, but something seems off...
 
-Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
+## Hint
+* This doesn't look like a standalone program, I wonder if it depends on something else to run...
 
 ## Solution
+
+Reverse engineering challenge with a module for the game Terasology
 
 JAR files are just `.zip` files with a different extension; there are various ways to view the contents (without decompiling):
 
@@ -90,12 +94,6 @@ This approach has the advantage that you don't need to do as much reverse engine
 
 Flag: `jctf{b3Tter_th4N_tH3_0r1giN4l_a093c0}`
 
----
+## Credit
+* Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
 
-## Challenge Message
-
-There's mining, and there's crafting, but something seems off...
-
-## Challenge Hints
-
-* This doesn't look like a standalone program, I wonder if it depends on something else to run...
