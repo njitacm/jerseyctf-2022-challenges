@@ -1,5 +1,4 @@
-# Root me
-* 
+# root-me
 
 ## Challenge Text
 * SSH into the challenge host on port 2222
@@ -17,4 +16,5 @@ find / -perm -4000
 date -f /root/flag.txt
 ```
 
-
+## Credit
+* Developed by [Rob](https://github.com/njccicrob)
