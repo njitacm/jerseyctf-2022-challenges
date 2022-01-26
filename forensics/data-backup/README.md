@@ -3,6 +3,8 @@
 ## Challenge Text
 * The backup of our data was somehow corrupted.  Recover the data and be rewarded with a flag.
 
+## Hint
+* Try a tool a surgeon might use.
 
 ## Solution
 
