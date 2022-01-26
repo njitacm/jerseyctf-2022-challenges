@@ -1,10 +1,14 @@
 # context-clues
 
-Reversing challenge using POSIX `makecontext`/`getcontext`/`swapcontext` functions
+## Challenge Text
+* Everyone made a big deal about C++ getting coroutines in 2020, but C has had them for decades if you know where to look.
 
-Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
+## Hint
+* Remember to look up terms and function names you've never heard of.
 
 ## Solution
+
+Reversing challenge using POSIX `makecontext`/`getcontext`/`swapcontext` functions
 
 Most of the solution entails knowing what these library functions do; from there, it's pretty simple to figure out what the program is doing.
 `main` calls `func1` using its context, then `func1` passes control back and forth to `func2` a few times before they return.
@@ -20,14 +24,7 @@ To do this, we make one function a generator, and use `next` to pass control to 
 The syntax looks a little bit strange because this isn't really what generators are intended to be used for, but it's effectively equivalent to what the binary does.
 See (sol.py)[sol.py] for an implementation of this solution.
 
-Flag: `jctf{0b5OL3sc3nCe_rU1e5_209g9ax}`
+* Flag: `jctf{0b5OL3sc3nCe_rU1e5_209g9ax}`
 
----
-
-## Challenge Message
-
-Everyone made a big deal about C++ getting coroutines in 2020, but C has had them for decades if you know where to look.
-
-## Challenge Hints
-
-* Remember to look up terms and function names you've never heard of.
+## Credit
+* Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
