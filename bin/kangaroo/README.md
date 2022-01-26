@@ -1,10 +1,13 @@
 # kangaroo
 
-Reverse engineering challenge obfuscated with the `setjmp` and `longjmp` functions
+## Challenge Text
+* I'm feeling pretty JUMPY today. Can you give me a nice flag to JUMP on?
 
-Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
+## Hint
+* There's a lot of code, but most of it seems pretty similar. Try to look at the bigger picture.
 
 ## Solution
+Reverse engineering challenge obfuscated with the `setjmp` and `longjmp` functions
 
 The structure of the binary is essentially a long list of blocks initialized with `setjmp`,
 followed by a `longjmp` to the one called `start`.
@@ -63,14 +66,7 @@ Now we can recover the flag by doing the following:
 
 The (solution folder)[sol] includes a commented Python script with more details.
 
-Flag: `jctf{h1PpiTy_H0PP1tY_a95c4603}`
+* Flag: `jctf{h1PpiTy_H0PP1tY_a95c4603}`
 
----
-
-## Challenge Message
-
-I'm feeling pretty JUMPY today. Can you give me a nice flag to JUMP on?
-
-## Challenge Hints
-
-* There's a lot of code, but most of it seems pretty similar. Try to look at the bigger picture.
+## Credit
+* Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
