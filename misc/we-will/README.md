@@ -1,5 +1,4 @@
 # we-will
-*
 
 ## Challenge Text
 * A flag was left behind but it seems to be protected.
@@ -11,3 +10,6 @@
 ```
 fcrackzip -u -D -p /usr/share/wordlists/rockyou.txt flag.zip
 ```
+
+## Credit
+* Developed by [Rob](https://github.com/njccicrob)
