@@ -1,10 +1,13 @@
 # misdirection
 
-Simple challenge about file descriptors
+## Challenge Text
+* Where'd the flag go?
 
-Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
+## Hint
+* There are many ways to solve this challenge, some of which are much easier than others.
 
 ## Solution
+Simple challenge about file descriptors
 
 This binary XORs 2 arrays together and uses `write` to write the result to file descriptor 5.
 This result is (presumably) the flag.
@@ -28,14 +31,7 @@ By default, these commands only print the first 32 characters of a string;
 There are a few other ways to solve this challenge: we could use a debugger, set a breakpoint, and get the flag from memory,
 or we could copy the arrays from the binary and XOR them ourselves, but that's way more work.
 
-Flag: `jctf{l00k5_1iK3_u_f0Und_m3_018a09d6}`
+* Flag: `jctf{l00k5_1iK3_u_f0Und_m3_018a09d6}`
 
----
-
-## Challenge Message
-
-Where'd the flag go?
-
-## Challenge Hints
-
-* There are many ways to solve this challenge, some of which are much easier than others.
+## Credit
+* Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
