@@ -3,8 +3,10 @@
 ## Challenge Text
 * Someone accessed the server and stole the flag.  Use the network packet cature for find it.
 
-## Solution
+## Hint
+* Look for unusual ports.
 
+## Solution
 * Open the pcap with Wireshark.
 
 * Follow the TCP stream for port 4444 and export the data as raw.
