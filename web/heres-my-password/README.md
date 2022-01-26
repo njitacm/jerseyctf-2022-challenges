@@ -17,5 +17,5 @@
 * Flag: `jctf{c0NGR@T2_y0U_p@22wORd_SPR@y3D!}`
 
 ## Credit
-* Developed by [Logan](https://github.com/Git-Logan)
+* Developed by [Andrew](https://github.com/peppermintpatty5) and [Logan](https://github.com/Git-Logan)
 * Additional Resources: https://owasp.org/www-community/attacks/Password_Spraying_Attack and https://www.youtube.com/watch?v=QcQT4acDbnk
