@@ -1,12 +1,16 @@
 # buster
 
-Directory enumeration challenge where every request returns a random HTTP status
-
 NOTE: The provided Python file, `buster.py`, should be run on a server and not be given as part of the challenge; just the URL of the server should be given.
 
-Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
+## Challenge Text
+* Check out my new site, it has lots of cool pages!
+
+## Hint
+* What do HTTP response codes actually mean?
 
 ## Solution
+
+Directory enumeration challenge where every request returns a random HTTP status
 
 The root webpage has a comment suggesting that this is probably an enumeration challenge;
 i.e., we want to find all of the subpages under this page.
@@ -50,12 +54,5 @@ This also means it doesn't actually stop after it prints the flag until it goes 
 
 Flag: `jctf{1t5_jUst_4_nUmb3r_ag8h7z8021}`
 
----
-
-## Challenge Message
-
-Check out my new site, it has lots of cool pages!
-
-## Challenge Hints
-
-* What do HTTP response codes actually mean?
+## Credit
+* Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
