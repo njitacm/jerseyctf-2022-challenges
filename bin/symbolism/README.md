@@ -1,10 +1,13 @@
 # symbolism
 
-A reversing challenge with a binary that runs on a Lisp Machine
+## Challenge Text
+* My friend sent me this weird file. Whenever I ask him what it is, he just keeps saying something about symbols.
 
-Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
+## Hint
+* [https://archives.loomcom.com/genera/genera-install.html](https://archives.loomcom.com/genera/genera-install.html)
 
 ## Solution
+A reversing challenge with a binary that runs on a Lisp Machine
 
 Using `strings` should give you a few keywords to look up, like "Lisp Machine" and "Open Genera".
 With those, you should be able to figure out that this looks like a binary for Open Genera.
@@ -114,14 +117,7 @@ print(flag)
 
 This script assumes you've stored the disassembly of `char-map` in the file `char-map.disas`.
 
-Flag: `jctf{l0t5_0F_1rriT@tiN9_5tUp1D_p4r3nThEs35_a08n78w0}`
+* Flag: `jctf{l0t5_0F_1rriT@tiN9_5tUp1D_p4r3nThEs35_a08n78w0}`
 
----
-
-## Challenge Message
-
-My friend sent me this weird file. Whenever I ask him what it is, he just keeps saying something about symbols.
-
-## Challenge Hints
-
-* [https://archives.loomcom.com/genera/genera-install.html](https://archives.loomcom.com/genera/genera-install.html)
+## Credit
+* Developed by [ContronThePanda](https://github.com/PAndaContron), part of [RUSEC](https://rusec.github.io/).
