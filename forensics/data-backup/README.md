@@ -21,4 +21,7 @@ zip -FF 00001490.zip --out fixed.zip
 ```
 
 * Flag is in the PDF file flag.pdf
-jctf{fun_w17h_m461c_by735}
+* Flag: `jctf{fun_w17h_m461c_by735}`
+
+## Credit
+* Developed by [Rob](https://github.com/njccicrob)
