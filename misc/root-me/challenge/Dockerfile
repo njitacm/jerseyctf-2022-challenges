@@ -22,7 +22,8 @@ COPY flag.txt /root
 
 RUN chmod 4755 /usr/bin/date
 
-## sudo docker build -t image_name
+RUN chmod a-w /tmp
 
-## It is important to run the container read-only so others cannot leave scripts behind or leak flags
-## sudo docker run -dp 2222:2222 --read-only image_name 
+RUN chmod a-w /home/ubuntu
+
+RUN chown -R root:root /home/ubuntu
