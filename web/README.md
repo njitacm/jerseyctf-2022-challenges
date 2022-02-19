@@ -12,7 +12,7 @@
 |:-- | :-- | :---
 | [buster](buster) | Check out my new site, it has lots of cool pages! | What do HTTP response codes actually mean?
 | [heres-my-password](heres-my-password) | We have a list of 500 users (males, females, and pets) and one password. Log-in with the proper credentials for the flag. | This is not intended to require manual brute force. What are some other types of brute force methods?
-|  |  | 
+| [road-not-taken](road-not-taken) | You've reached a fork in the road! Choose the right path to find your way to the flag. | Recent CVEs may help you find your way. 
 
 
 ## Hard Challenges
