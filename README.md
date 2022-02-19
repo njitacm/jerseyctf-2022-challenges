@@ -2,6 +2,9 @@
 
 Development of Challenges for JerseyCTF 2022, hosted by [NJIT ACM](https://njit.acm.org) / [NJIT SCI](https://sci.njit.edu) and co-sponsored by [NJCCIC](https://www.cyber.nj.gov).
 
+<p align="center"><img src="https://user-images.githubusercontent.com/65144990/154726240-d1eb5f91-ab14-486b-a316-4a3cd08a6ae8.png" width="250" height="250" /></>
+
+
 ---
 
 ## General Info
