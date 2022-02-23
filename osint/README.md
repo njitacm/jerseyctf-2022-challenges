@@ -4,7 +4,7 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [dns-joke](dns-joke) | There is a DNS joke hidden somewhere in www.jerseyctf.com. | How are IP addresses pointed towards domain names?
-|  |  | 
+| [photo-op-spot](photo-op-spot) |In three words tell me where I stood when I grabbed this picture.  |GPS coordinates aren't the only method of specifying a location. Format for solution: jctf{yourthreewords}  - no special characters.
 |  |  | 
 
 ## Medium Challenges
