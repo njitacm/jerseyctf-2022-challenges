@@ -11,7 +11,7 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [hidden-in-plain-sight](hidden-in-plain-sight) | A file contains the flag but it is encrypted. | The file looks a little longer than you would expect.
-|  |  | 
+| [would-you-wordle](would-you-wordle) |Someone left this secret text string and unfinished Wordle. Can you put them together to get the flag? pUpPHg3KfB15MG2KGtQQMDEECPOF8oa3VA==| Ron's Code
 |  |  | 
 
 
