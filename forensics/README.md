@@ -11,9 +11,7 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [data-backup](data-backup) | The backup of our data was somehow corrupted.  Recover the data and be rewarded with a flag. | Try a tool a surgeon might use.
-| [recent-memory](recent-memory)   | Use the memory image in the Google drive link below.  An attacker left behind some evidence in the network connections.  Follow the attacker's tracks to find the flag.
-
-https://drive.google.com/drive/folders/1ubSx3pwHOSZ9oCShHBPToVdHjTev7hXL | Try connecting to the attacker's system.
+| [recent-memory](recent-memory)   | Use the memory image in the Google drive link below.  An attacker left behind some evidence in the network connections.  Follow the attacker's tracks to find the flag. https://drive.google.com/drive/folders/1ubSx3pwHOSZ9oCShHBPToVdHjTev7hXL | Try connecting to the attacker's system.
 |  |  |
 
 
