@@ -14,7 +14,7 @@
 for i in range(7000, 7999):
 	print(i)
 ```
-* Type `python3 listScript.py > database.passwords.txt` to send the output to a text file.
+* Type `python3 listScript.py > database-passwords.txt` to send the output to a text file.
 * Run John the Ripper on the password hash using the PIN range via `john --wordlist=database-passwords.txt keepassHash.txt`
 * Hashcat is also an option
 * After a few minutes, PIN: 7182
