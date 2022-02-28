@@ -11,7 +11,7 @@
 ## Medium Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-|  |  | 
+| [bank-clients](bank-clients) | There was a password-protected client database discovered on a stolen bank computer. | There is a Desktop sticky note that says "wyptbt lza zlwalt".  
 |  |  | 
 |  |  | 
 
@@ -20,4 +20,5 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [root-me](root-me) | Read the /root/flag.txt file!  | No hints
+|  |  | 
 |  |  | 
