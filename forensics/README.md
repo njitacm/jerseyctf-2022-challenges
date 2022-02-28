@@ -15,9 +15,10 @@
 |  |  |
 
 
+
 ## Hard Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [infected](infected) | A host on the network was infected with a remote access trojan.  A memory image of the host can be found here: https://drive.google.com/drive/folders/1YJN9tqjKSIRcYD3Wb4ZH1xo2DlnCuJEB | No hints.
-|  |  |
+| [corrupted-file](corrupted-file) | There is something wrong with this pdf file. It says it is corrupted. | No hints.
 |  |  |
