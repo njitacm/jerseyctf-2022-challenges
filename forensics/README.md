@@ -4,7 +4,7 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [stolen-data](stolen-data) | Someone accessed the server and stole the flag.  Use the network packet cature for find it. | Look for unusual ports.
-|  |  |
+| [speedy-at-midi](speedy-at-midi) | Can you find the right tool to extract the hidden data? | You wouldn't have the audacity to try using a MIDI editor, would you?
 |  |  |
 
 ## Medium Challenges
