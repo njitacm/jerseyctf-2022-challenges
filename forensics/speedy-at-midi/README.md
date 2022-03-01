@@ -4,7 +4,7 @@
 * Your partner-in-crime gets a hold of a MIDI file, `riff.mid`, which intelligence officials claim to contain confidential information.  He has tried opening it in VLC Media Player, but it sounds just like the piano riff in `riff.mp3`.  Can you find the right tool to extract the hidden data? 
 
 ## Hint
-* You wouldn't have the __Audacity__ to try using a MIDI editor, would you?
+* You wouldn't have the audacity to try using a MIDI editor, would you?
 
 ## Solution
 * Open up `riff.mid` in [Audacity](https://www.audacityteam.org/), a free and open-source audio editor.
