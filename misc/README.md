@@ -12,7 +12,7 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [bank-clients](bank-clients) | There was a password-protected client database discovered on a stolen bank computer. | There is a Desktop sticky note that says "wyptbt lza zlwalt".  
-|  |  | 
+| [mystery[(mystery) | Someone thought it would be fun to leave this mysterious clue. How do these two items lead to the flag? | This detective has innovative search tool.
 |  |  | 
 
 
