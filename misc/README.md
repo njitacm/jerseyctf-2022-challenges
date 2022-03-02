@@ -11,7 +11,7 @@
 ## Medium Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-|  |  | 
+|  [mystery](mystery)| Someone thought it would be fun to leave this mysterious clue. How do these two items lead to the flag? | This detective has innovative search tool.
 |  |  | 
 |  |  | 
 
