@@ -1,7 +1,7 @@
 # xoracle
 
-Note: the file (xoracle.py)[challenge/xoracle.py] should be provided as part of the challenge,
-and it should also be accessible by netcat, running in the same directory as (flag.txt)[challenge/flag.txt].
+Note: the file [xoracle.py](challenge/xoracle.py) should be provided as part of the challenge,
+and it should also be accessible by netcat, running in the same directory as [flag.txt](challenge/flag.txt).
 
 ## Challenge Text
 * Check out my cool new encryption service! It's very secure!
