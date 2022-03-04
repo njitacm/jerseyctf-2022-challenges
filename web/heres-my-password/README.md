@@ -15,6 +15,7 @@
 * In Positions, click Clear on the right. Highlight the username that was inputted and click Add on the right.
 * In Payloads, click Load and select the provided users.txt file. Click Start attack, and then click the Length filter twice so that it orders from greatest to least. In ~5-10 minutes of running the attack, the correct user `Wolverine` will have a larger length than the rest because it logged-in and provided the flag in an alert. Navigate to the site and enter in the proper credentials to see the flag or simply read it in Burp.
 * Flag: `jctf{c0NGR@T2_y0U_p@22wORd_SPR@y3D!}`
+* Shares website with osint/contributor challenge.
 
 ## Credit
 * Developed by [Andrew](https://github.com/peppermintpatty5) and [Logan](https://github.com/Git-Logan)
