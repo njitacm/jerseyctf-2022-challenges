@@ -6,7 +6,6 @@
 
 ## Hint
 * This is not intended to require manual brute force. What are some other types of brute force methods?
-* The active user from web/heres-my-password will not work for the "Forgot Password?" feature.
 
 ## Solution
 * Utilize BurpSuite (free version works) to conduct a password spraying brute force attack.
