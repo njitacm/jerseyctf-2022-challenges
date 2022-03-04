@@ -18,6 +18,6 @@
 ## Hard Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-| [file-zip-cracker](file-zip-cracker) | Fix the script to brute force the password.| No hints.
-|  |  | 
+| [file-zip-cracker](file-zip-cracker) | Fix the script to brute force the password. | No hints.
+| [audio-transmission](audio-transmission) | We have intercepted an audio transmission from a known criminal organization. | No hints.
 |  |  | 
