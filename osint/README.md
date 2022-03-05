@@ -12,7 +12,7 @@
 |:-- | :-- | :---
 | [sho-me-whats-wrong](sho-me-whats-wrong) | A company that provides affordable satellite communication services appears to have devices scattered across the Internet with a known vulnerability. | How do you filter through an Excel spreadsheet for the information you want? 
 | [mystery](mystery) | Someone thought it would be fun to leave this mysterious clue. How do these two items lead to the flag? | This detective has innovative search tool.
-|  |  | 
+| [contributor](contributor) | One of the speakers actually helped us develop https://www.jerseyctf.com/ and http://www.jerseyctf.online/. | 1.0 × 10^100
 
 
 ## Hard Challenges
