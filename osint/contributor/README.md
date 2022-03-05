@@ -16,5 +16,5 @@
 * **Important:** Donnie Rodgers is a fictional person. His name and connections to academic institutions and companies are all made up. His face is AI generated and is not a real person. 
 
 ## Credit
-* Developed by [Logan](https://github.com/Git-Logan)
+* Developed by [Andrew](https://github.com/peppermintpatty5) and [Logan](https://github.com/Git-Logan)
 * AI generated face made by https://generated.photos/face-generator/new 
