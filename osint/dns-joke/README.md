@@ -12,7 +12,7 @@
   * dig -t txt www.jerseyctf.com +short
   * host -t txt www.jerseyctf.com
   * nslookup -type=txt www.jerseyctf.com
-* The flag will be in a string: jctf{DNS_J0k3s_t@k3_24_hrs}
+* The flag will be in a string: `jctf{DNS_J0k3s_t@k3_24_hrs}`
 
 ## Credit
 * Developed by [Logan](https://github.com/Git-Logan)
