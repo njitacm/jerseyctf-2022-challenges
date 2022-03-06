@@ -32,20 +32,20 @@
   * The hash of the entire output file is the flag.
 
 * I have written two solution scripts (PowerShell and Python) which demonstrate the outline above, see these files for details:
-  * [dnsmasq-ip-extract-solution.ps1](dnsmasq-ip-extract/sol/solution_scripts/dnsmasq-ip-extract-solution.ps1)
-  * [dnsmasq-ip-extract-solution.py](dnsmasq-ip-extract/sol/solution_scripts/challenge_1/dnsmasq-ip-extract-solution.py)
+  * [dnsmasq-ip-extract-solution.ps1](../dnsmasq-ip-extract/sol/solution_scripts/dnsmasq-ip-extract-solution.ps1)
+  * [dnsmasq-ip-extract-solution.py](../dnsmasq-ip-extract/sol/solution_scripts/challenge_1/dnsmasq-ip-extract-solution.py)
   
 * Flag: `jctf{90dc97926e09a45aa02ca3a95db387bb00ff83ccff18f4d18a3eb96b4893e8bb}`
 
 ## Additional Files
-* [dnsmasq-ip-extract-challenge-generator.py](dnsmasq-ip-extract/sol/dnsmasq-ip-extract-challenge-generator.py)
+* [dnsmasq-ip-extract-challenge-generator.py](../dnsmasq-ip-extract/sol/dnsmasq-ip-extract-challenge-generator.py)
   * Script to generate a brand new challenge! Outputs the following:
     * A new sample log file (dnsmasq-ip-extract-dnsmasq.log);
     * A new answer file (dnsmasq-ip-extract-answer-list.txt);
     * A file containing the new challenge flag (dnsmasq-ip-extract-flag.txt).
-* [dnsmasq-ip-extract-answer-list.txt](dnsmasq-ip-extract/sol/dnsmasq-ip-extract-answer-list.txt)
+* [dnsmasq-ip-extract-answer-list.txt](../dnsmasq-ip-extract/sol/dnsmasq-ip-extract-answer-list.txt)
   * This is the output a participant's script should generate if completed properly.
-* [dnsmasq-ip-extract-flag.txt](dnsmasq-ip-extract/sol/dnsmasq-ip-extract-flag.txt)
+* [dnsmasq-ip-extract-flag.txt](../dnsmasq-ip-extract/sol/dnsmasq-ip-extract-flag.txt)
   * Contains the challenge flag.
 
 ## Credit
