@@ -12,11 +12,12 @@
 
     | Categories
     | :--
-    | [crypto](crypto)
-    | [forensics](forensics)
-    | [misc](misc)
-    | [bin](bin)
-    | [web](web)
+    | [crypto](../crypto)
+    | [forensics](../forensics)
+    | [misc](../misc)
+    | [bin](../bin)
+    | [web](../web)
+    | [osint](../osint)
 
 1. Run `python3 ../makeChallenge.py <ChallengeName>` and this will automatically instantiate all the standardization to make a challenge.
     - _NB: This assumes you have followed Step 1_
@@ -28,11 +29,12 @@
 
     | README.md's Categories
     | :--
-    | [crypto/README.md](https://github.com/njitacm/jerseyctf-2022-challenges/tree/main/crypto)
-    | [forensics/README.md](https://github.com/njitacm/jerseyctf-2022-challenges/tree/main/forensics)
-    | [misc/README.md](https://github.com/njitacm/jerseyctf-2022-challenges/tree/main/misc)
-    | [pwn/README.md](https://github.com/njitacm/jerseyctf-2022-challenges/tree/main/pwn)
-    | [web/README.md](https://github.com/njitacm/jerseyctf-2022-challenges/tree/main/web)
+    | [crypto/README.md](../crypto/README.md)
+    | [forensics/README.md](../forensics/README.md)
+    | [misc/README.md](../misc/README.md)
+    | [bin/README.md](../bin/README.md)
+    | [web/README.md](../web/README.md)
+    | [osint/README.md](../osint/README.md)
 
 ---
 ### Creating a writeup for a challenge
