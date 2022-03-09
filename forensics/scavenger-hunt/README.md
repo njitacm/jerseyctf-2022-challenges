@@ -1,4 +1,4 @@
-# scavenger_hunt
+# scavenger-hunt
 
 ## Challenge Text
 * My friend told me he hid a flag for me on this server!
