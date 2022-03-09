@@ -1,0 +1,9 @@
+Package: notaflag
+Version: 1.1
+Section: misc
+Priority: extra
+Architecture: amd64
+Maintainer: Cool Person <coolperson@gmail.com>
+Description: gives you important info about ctfs (but its not a flag)
+  someone told me to look at my manual.
+  kinda sus.
