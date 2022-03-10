@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>The Vault</h1>
+
+<p>
+    Welcome back me!
+    Your flags are still here, just waiting to be queried!
+</p>
+<p>
+    If you're somehow <span class="fw-bold">not</span> me and you managed to get here, please get out.
+    This is top-secret flag stuff.
+    Well, at the very least, it's not like you'll find the true <code>jctf</code> flag in all the fakes!
+    Hahahahaha.
+</p>
+
+<hr/>
+
+<form method="post">
+    <div class="mb-3">
+        <label for="id" class="form-label">Flag ID</label>
+        <input type="text" class="form-control" id="id" name="id">
+    </div>
+    <button type="submit" class="btn btn-success">Search</button>
+</form>
+
+
+{% endblock %}
