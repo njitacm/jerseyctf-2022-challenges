@@ -1,4 +1,4 @@
-# going_over
+# going-over
 
 ## Challenge Text
 * My friends said they were going on a trip but I think they ran into some trouble... nc [server] [port]
