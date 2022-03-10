@@ -1,0 +1,11 @@
+cffi==1.15.0
+click==8.0.4
+cryptography==36.0.1
+Flask==2.0.3
+itsdangerous==2.1.0
+Jinja2==3.0.3
+MarkupSafe==2.1.0
+pycparser==2.21
+PyJWT==2.3.0
+python-dotenv==0.19.2
+Werkzeug==2.0.3
