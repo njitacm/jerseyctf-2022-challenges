@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Well, well, well...</h1>
+
+<p>It <span class="fst-italic">seems</span> that you've found the secret stash of flags I've been keeping.</p>
+
+<p>
+    If you're reading this message and you're not me, just turn back now.
+    I'm not going to let you see my collection of flags.
+    Plus, I have these flags stored in the safest database I could set up.
+    It's literally 100% unhackable.
+</p>
+
+<p>
+    If, on the other hand, you <span class="fst-italic">are</span> me, then welcome back!
+    Your&mdash;err, I mean my&mdash;flags are waiting right
+    <a href="{{ url_for('flags') }}">here</a>.
+</p>
+
+{% endblock %}
