@@ -1,7 +1,7 @@
 # check-the-shadows
 
 ## Challenge Text
-* Someone in operations recovered fragments of an important file from 142.93.56.4 when it was undergoing maintence. Intel has it that one of the users has some valuable information. SSH into the server and retrieve it.
+* Someone in operations recovered fragments of an important file from 142.93.56.4 when it was undergoing maintenance. Intel has it that one of the users has some valuable information. SSH into the server and retrieve it.
 
 ## Hint
 * John once said that "any group is only as strong as the weakest link."
