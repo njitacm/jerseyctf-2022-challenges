@@ -4,11 +4,11 @@
 * We have intercepted an audio transmission from a known criminal organization. It is obviously encrypted in some way, but we've had no luck deciphering it. Can you help us out?
 
 ## Hint
-* No hints
+* No hints.
 
 ## Solution
-* Taking a look at the spectrogram of the audio file shows several frequency bands clearly defined. The first and last frame are used as a guide to define the 8 frequencies that represent 8 bits of an ascii character. Each 200ms section represents an ascii character. Extracting the entire message from the audio file leaves you with a base64 encoded message.
-* While this entire challenge could be done manually, it has been purposefully made into a long enough message to be inefficient. To be completed in a short amount of time, a script should be created to analyze the audio file.
+* Taking a look at the spectrogram of the audio file shows several frequency bands clearly defined. The first and last frame are used as a guide to define the 8 frequencies that represent 8 bits of an ascii character. Each 200ms section represents an ascii character. Extracting the entire message from the audio file leaves you with a base64 encoded gif image.
+* While this entire challenge could be done manually, it has been purposefully made into a long enough message to be very inefficient. To be completed in a short amount of time, a script should be created to analyze the audio file.
 * Flag: `jctf{b1n4Ry_4sc1!_iN_sP3cTr0gr4M}`
 
 
@@ -45,8 +45,11 @@ for i in range(0,int(alen),step):
     encmsg += chr(int(''.join([str(c) for c in bindata]),2))
 
 decmsg = base64.b64decode(encmsg[2:-2])
-print(decmsg.decode())
+
+with open("output.gif", "wb") as f:
+    f.write(decmsg)
 ```
+
 
 ## Credit
 * Developed by [Eric Hanson](https://github.com/vimk1ng)
