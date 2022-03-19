@@ -8,7 +8,7 @@
 
 ## Solution
 * Given a shadow file with the many users of an organization, it could take weeks to brute-force all of the passwords, even with a HPC cluster. If a single user has a weak password, the entire system is vulnuerable.
-* Use John the Ripper (or Hashcat, or other equivilant) to carry out a dictionary attack on the given shadow file. As soon as a vulnuerable password is found, ssh into the the server using that username and password.
+* Use John the Ripper (or Hashcat, or other equivalent) to carry out a dictionary attack on the given shadow file. As soon as a vulnuerable password is found, ssh into the the server using that username and password.
 * Start by probing the /home directory to see which users have home folders. 
 * Then, list all of the files in all of the home folders to notice that many files have a file called `file.txt` in them. 
 * Search every one of those files using `grep` to see if it contains `jctf` as the flag.
