@@ -13,7 +13,7 @@
 |:-- | :-- | :---
 | [bank-clients](bank-clients) | There was a password-protected client database discovered on a stolen bank computer. | There is a Desktop sticky note that says "wyptbt lza zlwalt".  
 | [dnsmasq-ip-extract](dnsmasq-ip-extract) | Extract all unique IPs, hash each IP, and write the IP + hash to a text file. | Verify that the end of your file has a new blank line.  
-|  |  | 
+| [check-the-shadows](check-the-shadows) | Someone in operations recovered fragments of an important file from 142.93.56.4 when it was undergoing maintenance. | John once said that "any group is only as strong as the weakest link."
 
 ## Hard Challenges
 | Challenge Name  | Description | Hint
