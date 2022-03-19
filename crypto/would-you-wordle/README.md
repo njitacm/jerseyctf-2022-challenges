@@ -5,10 +5,10 @@
 * pUpPHg3KfB15MG2KGtQQMDEECPOF8oa3VA==
 
 ## Hint
-* Ron's Code
+* WPA3 (YES), WPA2 (EH), WPA (NO), WEP (NOOOO)
 
 ## Solution
-* Solve the Wordle to get the Key = "thorn".  Use the RC4 cipher and the Key to decrypt the string.
+* Solve the Wordle to get the Key = "thorn".  Use the RC4 cipher (used by WEP) and the Key to decrypt the string.
 * Flag: `jctf{CryptoIsTheKeyToFun}`
 
 ## Credit
