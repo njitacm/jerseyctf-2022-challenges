@@ -1,7 +1,7 @@
 # scavenger-hunt
 
 ## Challenge Text
-* My friend told me he hid a flag for me on this server!
+* My friend told me he hid a flag for me on this server! Server: 0.cloud.chals.io SSH port: 24052
 * Username: jersey
 * Password: securepassword
 

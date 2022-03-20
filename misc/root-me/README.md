@@ -1,7 +1,7 @@
 # root-me
 
 ## Challenge Text
-* SSH into the challenge host on port 2222
+* SSH into the challenge host, 0.cloud.chals.io on port 19777
 * Username: ubuntu Password: jctf2022!
 * Find the flag
 
