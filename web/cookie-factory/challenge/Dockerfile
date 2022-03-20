@@ -11,4 +11,6 @@ COPY app.py .
 COPY static static
 COPY templates templates
 
+EXPOSE 80
+
 CMD ["gunicorn", "app:app", "-b", "0.0.0.0:80"]
