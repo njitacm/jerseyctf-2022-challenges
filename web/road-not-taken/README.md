@@ -1,7 +1,7 @@
 # road-not-taken
 
 ## Challenge Text
-* You've reached a fork in the road! Choose the right path to find your way to the flag.  
+* You've reached a fork in the road! Choose the right path to find your way to the flag.  Start here: https://jerseyctf-road-not-taken.chals.io/  
 
 ## Hint
 * Recent CVEs may help you find your way.

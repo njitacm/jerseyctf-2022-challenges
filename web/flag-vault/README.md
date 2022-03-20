@@ -1,7 +1,7 @@
 # Flag Storage Vault
 
 ## Challenge Text
-* I'm very organized. I even keep all of my flags neatly organized in a database! But, these are my flags! You don't have access to them... or do you?
+* I'm very organized. I even keep all of my flags neatly organized in a database! But, these are my flags! You don't have access to them... or do you?  Start here: jerseyctf-flag-vault.chals.io
 
 ## Hint
 * What is the most common type of database?

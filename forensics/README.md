@@ -12,7 +12,7 @@
 |:-- | :-- | :---
 | [data-backup](data-backup) | The backup of our data was somehow corrupted.  Recover the data and be rewarded with a flag. | Try a tool a surgeon might use.
 | [recent-memory](recent-memory)   | Use the memory image in the Google drive link below.  An attacker left behind some evidence in the network connections.  Follow the attacker's tracks to find the flag. https://drive.google.com/drive/folders/1ubSx3pwHOSZ9oCShHBPToVdHjTev7hXL | Try connecting to the attacker's system.
-|[scavenger-hunt](scavenger-hunt) | My friend told me he hid a flag for me on this server! Username: jersey Password: securepassword | If only there were a way to see all folders... even hidden ones. I wonder where passwords are typically stored on ssh servers?
+|[scavenger-hunt](scavenger-hunt) | My friend told me he hid a flag for me on this server! Server: 0.cloud.chals.io SSH port: 24052 Username: jersey Password: securepassword | If only there were a way to see all folders... even hidden ones. I wonder where passwords are typically stored on ssh servers?
 
 
 ## Hard Challenges
