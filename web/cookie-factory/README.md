@@ -1,7 +1,7 @@
 # Granny's Cookie Factory
 
 ## Challenge Text
-* Here at Granny's Old-Fashioned Home-Baked Cookie Factory, we pride ourselves on our cookies AND security being the best in the business.
+* Here at Granny's Old-Fashioned Home-Baked Cookie Factory, we pride ourselves on our cookies AND security being the best in the business.  Start here: https://jerseyctf-cookie-factory.chals.io/
 
 ## Hint
 * None, this is a hard challenge

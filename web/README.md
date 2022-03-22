@@ -19,6 +19,6 @@
 ## Hard Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-| [cookie-factory](cookie-factory) | Here at Granny's Old-Fashioned Home-Baked Cookie Factory, we pride ourselves on our cookies AND security being the best in the business. | No hints.
+| [cookie-factory](cookie-factory) | Here at Granny's Old-Fashioned Home-Baked Cookie Factory, we pride ourselves on our cookies AND security being the best in the business. Start here: https://jerseyctf-cookie-factory.chals.io/ | No hints.
 |  |  | 
 |  |  | 
