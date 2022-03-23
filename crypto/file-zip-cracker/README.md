@@ -1,13 +1,13 @@
 # file-zip-cracker
 
 ## Challenge Text
-* We have secret file that is password protected. However, we have obtained a wordlist of actors that is part of the password. The pasword is the combination of one of names on the list with a year.
+* We have a secret file that is password protected. However, we have obtained a wordlist of actors that is part of the password. The password is the combination of one of the names on the list with a year.
   * Format: "Actor_NameYYYY"  
   * Example: "Henry_Cavill1964"
 * Fix the script to brute force the password.
 
 ## Hint
-* No hints
+* No hints.
 
 ## Solution
 1. To fix the script:
