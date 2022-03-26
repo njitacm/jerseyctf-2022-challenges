@@ -4,7 +4,7 @@ Note: the file [xoracle.py](challenge/xoracle.py) should be provided as part of 
 and it should also be accessible by netcat, running in the same directory as [flag.txt](challenge/flag.txt).
 
 ## Challenge Text
-* Check out my cool new encryption service! It's very secure!
+* Check out my cool new encryption service! It's very secure! Connect to 0.cloud.chals.io on port 19305.
 
 ## Hint
 * Read carefully: a small mistake or typo can be all it takes to make an encryption system insecure.
