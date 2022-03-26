@@ -13,7 +13,7 @@ class Cipher:
 
 cipher = Cipher()
 
-with open('flag.txt', 'rb') as f:
+with open('/root/flag.txt', 'rb') as f:
     flag = f.read().strip()
 
 flag = cipher.encrypt(flag)
