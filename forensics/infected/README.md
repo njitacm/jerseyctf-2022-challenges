@@ -8,6 +8,11 @@
 * No hints
 
 ## Solution
+* A few ways to solve this one.  If you list the running processes from the memory image using 'vol -f ~/infected.mem windows.pslist' you will see an svchost.exe process that was launched from cmd.exe which is not normal.  svchost.exe with the PID is the flag.
+
+Another way, you can run 'vol -f ~/infected.mem windows.malfind' which comes back with a few processes that are possibly infected svchost.exe being the correct one.
+
+
 * Flag: `jctf{svchost.exe:7756}`
 
 ## Credit
