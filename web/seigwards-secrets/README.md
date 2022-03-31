@@ -2,7 +2,7 @@
 
 ## Challenge Text
 
-* Seigward has been storing his secrets on his website for decades. Hasn't failed him yet.
+* Seigward has been storing his secrets on his website http://jerseyctf.co for decades. Hasn't failed him yet.
 
 ## Hint
 
