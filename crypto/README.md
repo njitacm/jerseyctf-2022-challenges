@@ -11,7 +11,7 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [hidden-in-plain-sight](hidden-in-plain-sight) | A file contains the flag but it is encrypted. | The file looks a little longer than you would expect.
-| [would-you-wordle](would-you-wordle) | Someone left this secret text string and unfinished Wordle. Can you put them together to get the flag? pUpPHg3KfB15MG2KGtQQMDEECPOF8oa3VA== | WPA3 (YES), WPA2 (EH), WPA (NO), WEP (NOOOO)
+| [would-you-wordle](would-you-wordle) | Someone left this secret text string and unfinished Wordle. Can you put them together to get the flag? pUpPHg3KfB15MG2KGtQQMDEECPOF8oa3VA== | Ron's Code
 |  |  | 
 
 
@@ -20,4 +20,4 @@
 |:-- | :-- | :---
 | [file-zip-cracker](file-zip-cracker) | Fix the script to brute force the password. | No hints.
 | [audio-transmission](audio-transmission) | We have intercepted an audio transmission from a known criminal organization. | No hints.
-|  |  | 
+| [inDEStructible](inDEStructible) | It's an older code, sir or madam, but it checks out. | No hints.
