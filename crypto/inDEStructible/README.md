@@ -2,7 +2,6 @@
 
 ## Challenge Text
 * It's an older code, sir or madam, but it checks out.
-) V÷B_*Yb7øPåcÙÞÒÖ2
 
 ## Solution
 * Find a DES encryption implementation in your language of choice and start bruteforcing keys (keyspace is 2^56, but the key is going to be < 2^22 so it shouldn't take more than 30 min to bruteforce).
