@@ -14,7 +14,7 @@
 |:-- | :-- | :---
 | [context-clues](context-clues) | Everyone made a big deal about C++ getting coroutines in 2020, but C has had them for decades if you know where to look. | Remember to look up terms and function names you've never heard of.
 | [block-game](block-game) | There's mining, and there's crafting, but something seems off... | This doesn't look like a standalone program, I wonder if it depends on something else to run.
-| [going-over](going_over) | My friends said they were going on a trip but I think they ran into some trouble... nc [server] [port] They sent me these two files before we lost contact ([src.c](challenge/files/src.c) and [going-over](challenge/going-over)) | If only there were a way to find the exact location of the ledge... like if the ledge had an address or something
+| [going-over](going_over) | My friends said they were going on a trip but I think they ran into some trouble... nc 0.cloud.chals.io 10197. They sent me these two files before we lost contact ([src.c](challenge/files/src.c) and [going-over](challenge/going-over)) | If only there were a way to find the exact location of the ledge... like if the ledge had an address or something
 
 ## Hard Challenges
 | Challenge Name  | Description | Hint

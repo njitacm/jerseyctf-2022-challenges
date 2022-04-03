@@ -23,6 +23,10 @@ RUN chmod +x ynetd
 COPY --from=build going-over going-over
 COPY /files/flag.txt /home/jersey/
 
+RUN chmod a-w /tmp
+
+RUN chmod a-w /home/jersey
+
 RUN chown -R root:root /home/jersey
 
 USER jersey
