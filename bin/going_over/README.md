@@ -1,7 +1,7 @@
 # going-over
 
 ## Challenge Text
-* My friends said they were going on a trip but I think they ran into some trouble... nc [server] [port]
+* My friends said they were going on a trip but I think they ran into some trouble... nc 0.cloud.chals.io 10197
 * They sent me these two files before we lost contact ([src.c](challenge/files/src.c) and [going-over](challenge/going-over))
 
 ## Hint
