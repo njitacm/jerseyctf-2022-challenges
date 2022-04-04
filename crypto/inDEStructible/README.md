@@ -9,4 +9,4 @@
 * Flag: `jctf{p4rty_l1k3_it_1977} `
 
 ## Credit
-* Developed by SpadeAsInAce
+* Developed by [SpadeAsInAce](https://github.com/spade-as-in-ace)
