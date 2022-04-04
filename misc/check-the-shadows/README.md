@@ -20,4 +20,4 @@
 * Flag: `jctf{o_noes_dicTionarY_atk}`
 
 ## Credit
-* Developed by SpadeAsInAce
+* Developed by [SpadeAsInAce](https://github.com/spade-as-in-ace)
