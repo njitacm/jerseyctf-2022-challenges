@@ -15,6 +15,7 @@ find / -perm -4000
 ```
 date -f /root/flag.txt
 ```
+* Flag: `jctf{4cc355_6r4n73d}`
 
 ## Credit
 * Developed by [Rob](https://github.com/njccicrob)
