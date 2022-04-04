@@ -3,7 +3,7 @@
 NOTE: The provided Python file, `buster.py`, should be run on a server and not be given as part of the challenge; just the URL of the server should be given.
 
 ## Challenge Text
-* Check out my new site, it has lots of cool pages!
+* Check out my new site, it has lots of cool pages! https://jerseyctf.xyz
 
 ## Hint
 * What do HTTP response codes actually mean?
