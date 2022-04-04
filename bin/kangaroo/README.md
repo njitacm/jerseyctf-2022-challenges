@@ -64,7 +64,7 @@ Now we can recover the flag by doing the following:
     1. Undo the transformation applied at this step
     2. Prepend the byte that would send us to the next state in the route
 
-The (solution folder)[sol] includes a commented Python script with more details.
+The [solution folder](sol) includes a commented Python script with more details.
 
 * Flag: `jctf{h1PpiTy_H0PP1tY_a95c4603}`
 
