@@ -1,7 +1,7 @@
 # rarity
 
 ## Challenge Text
-* With three belonging to a respective company, there are only a two-digit number amount of this entity left in the world. There is one near this picture... how close can you get to it?
+* With three belonging to a respective company, there is only a two-digit number amount of this entity left in the world. There is one near this picture... how close can you get to it?
 * The flag format is the coordinates in decimal degrees notation, for example: `jctf{-65.91374,-10.81140}`
 
 ## Hint
