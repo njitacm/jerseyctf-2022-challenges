@@ -1,4 +1,4 @@
-# Block Game
+# block-game
 
 ## Challenge Text
 * There's mining, and there's crafting, but something seems off...
