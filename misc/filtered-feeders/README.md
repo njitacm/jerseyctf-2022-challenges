@@ -7,7 +7,8 @@
 * How do you hide an image within an image?
 
 ## Solution
-* Image steganography decoder, extract lowest 2 bits for the hidden image.  
+* Use an image steganography decoder like this - https://incoherency.co.uk/image-steganography/
+* Select **Unhide image**, upload the image, and use the slider to extract the lowest 2 bits for the hidden image.  
 * Flag: `jctf{1_l0v3_h3rr1n65}`
 
 ## Credit
