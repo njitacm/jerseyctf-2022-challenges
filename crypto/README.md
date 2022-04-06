@@ -12,7 +12,7 @@
 |:-- | :-- | :---
 | [hidden-in-plain-sight](hidden-in-plain-sight) | A file contains the flag but it is encrypted. | The file looks a little longer than you would expect.
 | [would-you-wordle](would-you-wordle) | Someone left this secret text string and unfinished Wordle. Can you put them together to get the flag? pUpPHg3KfB15MG2KGtQQMDEECPOF8oa3VA== | Ron's Code
-|  |  | 
+| [secret-message](secret-message) | Could there be a secret message somewhere? | The employees of both organizations passed Decoding 101 in high school, but failed Encryption 101 in college.
 
 
 ## Hard Challenges
