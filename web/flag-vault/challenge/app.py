@@ -49,7 +49,7 @@ def setup_db():
         cur = db.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='users'")
         if len(cur.fetchall()) == 0:
             db.execute("CREATE TABLE users (username TEXT, password TEXT)")
-            db.execute("INSERT INTO users (username, password) VALUES ('admin', ?)", admin_password)
+            db.execute("INSERT INTO users (username, password) VALUES ('admin', ?)", (admin_password,))
 
         # Create flags table first time to prevent "no such table"
         db.execute("CREATE TABLE IF NOT EXISTS flags (id TEXT, flag TEXT)")
