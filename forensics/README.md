@@ -5,7 +5,6 @@
 |:-- | :-- | :---
 | [stolen-data](stolen-data) | Someone accessed the server and stole the flag.  Use the network packet cature for find it. | Look for unusual ports.
 | [speedy-at-midi](speedy-at-midi) | Can you find the right tool to extract the hidden data? | You wouldn't have the audacity to try using a MIDI editor, would you?
-|  |  |
 
 ## Medium Challenges
 | Challenge Name  | Description | Hint
@@ -19,5 +18,4 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [infected](infected) | A host on the network was infected with a remote access trojan.  A memory image of the host can be found here: https://drive.google.com/drive/folders/1YJN9tqjKSIRcYD3Wb4ZH1xo2DlnCuJEB | No hints.
-| [corrupted-file](corrupted-file) | There is something wrong with this pdf file. It says it is corrupted. | No hints.
-|  |  |
+| [corrupted-file](corrupted-file) | Can you find a way to fix our corrupted .jpg file? | No hints.
