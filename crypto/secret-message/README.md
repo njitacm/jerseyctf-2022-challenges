@@ -4,7 +4,7 @@
 * There are two bank heist organizations communicating by sending images of expensive assets to each other, could there be a secret message somewhere? Along with the images, they are sending the same secret_key.txt file with encoded text.
 
 ## Hint
-* Decode, leetcode, three code?
+* The employees of both organizations passed Decoding 101 in high school, but failed Encryption 101 in college.
 
 ## Solution
 * Open the secret_key.txt file - there will be a url encoded string.
