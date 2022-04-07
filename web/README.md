@@ -5,7 +5,6 @@
 |:-- | :-- | :---
 | [apache-logs](apache-logs) | There is suspicion that an external host was able to access a sensitive file accidentally placed in one of the company website's directories. | Which directory types should sensitive files not be placed in?
 | [seigwards-secrets](seigwards-secrets) | Seigward has been storing his secrets on his website for decades. Hasn't failed him yet. | Where can you find a website's code?
-|  |  | 
 
 ## Medium Challenges
 | Challenge Name  | Description | Hint
@@ -20,5 +19,3 @@
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
 | [cookie-factory](cookie-factory) | Here at Granny's Old-Fashioned Home-Baked Cookie Factory, we pride ourselves on our cookies AND security being the best in the business. Start here: https://jerseyctf-cookie-factory.chals.io/ | No hints.
-|  |  | 
-|  |  | 
