@@ -35,6 +35,6 @@ Development of Challenges for JerseyCTF 2022, hosted by [NJIT ACM](https://njit.
 ## Promotional Poster and Schedule
   
 <p align="center"><img src="https://user-images.githubusercontent.com/65144990/161452958-77bba8b5-1ffb-41bc-9301-8542df2e5595.png" width="250" height="360"/></>
-<p align="center"><img src="https://user-images.githubusercontent.com/65144990/161453290-ffb84272-fef6-4497-ab31-1e02a236bb58.png" width="250" height="360"/></>
+<p align="center"><img src="https://user-images.githubusercontent.com/65144990/162101427-473eaa40-0e57-45f7-bfcd-a1fb9c6ef870.png" width="250" height="360"/></>
  
  
