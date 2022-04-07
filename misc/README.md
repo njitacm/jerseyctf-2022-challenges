@@ -18,6 +18,4 @@
 ## Hard Challenges
 | Challenge Name  | Description | Hint
 |:-- | :-- | :---
-| [root-me](root-me) | SSH into the challenge host, 0.cloud.chals.io on port 19777.  Username: ubuntu Password: jctf2022! Read the /root/flag.txt file!  | No hints
-|  |  | 
-|  |  | 
+| [root-me](root-me) | SSH into the challenge host, 0.cloud.chals.io on port 19777.  Username: ubuntu Password: jctf2022! Read the /root/flag.txt file!  | No hints.
