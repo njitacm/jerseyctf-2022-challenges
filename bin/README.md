@@ -21,4 +21,3 @@
 |:-- | :-- | :---
 | [symbolism](symbolism) | My friend sent me this weird file. Whenever I ask him what it is, he just keeps saying something about symbols. | https://archives.loomcom.com/genera/genera-install.html
 | [kangaroo](kangaroo) | I'm feeling pretty JUMPY today. Can you give me a nice flag to JUMP on? | There's a lot of code, but most of it seems pretty similar. Try to look at the bigger picture.
-|  |  | 
