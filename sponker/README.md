@@ -8,7 +8,7 @@
 | kevin | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{icCDdOlDW0}
 | max | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{PBj6HClnZV}
 | debbi | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{SRw7gSIZbB}
-| pinky | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{6xXARJfw1U}
+| pinky/eric | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{6xXARJfw1U}
 | pat/jermaine/joe | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{78POYdCGzf}
 
 ## Sponsor Challenges
