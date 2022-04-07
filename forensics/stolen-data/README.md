@@ -1,7 +1,7 @@
 # stolen-data
 
 ## Challenge Text
-* Someone accessed the server and stole the flag.  Use the network packet cature for find it.
+* Someone accessed the server and stole the flag.  Use the network packet capture to find it.
 
 ## Hint
 * Look for unusual ports.
