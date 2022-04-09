@@ -25,8 +25,8 @@
 | [block-game](../bin/block-game) | [writeups](block-game)
 | [context-clues](../bin/context-clues) | [writeups](context-clues)
 | [going_over](../bin/going_over) | [writeups](going_over)
-| [kangaroo](../bin/kangaroo) | [writeups](kangaroo)                              )
-| [misdirection](../bin/misdirection) | [writeups](misdirection)                  iteups]($chal)\n"; done < $category
+| [kangaroo](../bin/kangaroo) | [writeups](kangaroo)           
+| [misdirection](../bin/misdirection) | [writeups](misdirection)
 | [patches](../bin/patches) | [writeups](patches)
 | [symbolism](../bin/symbolism) | [writeups](symbolism)
 | [win-bin-analysis](../bin/win-bin-analysis) | [writeups](win-bin-analysis)
