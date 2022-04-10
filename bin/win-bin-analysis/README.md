@@ -5,6 +5,7 @@
 
 # Hint
 * .exe's arent the only type of executable file.
+* https://www.aesencryptiononline.com/2022/03/aes-encryption-function-ontools.html
 
 # Solution
 
