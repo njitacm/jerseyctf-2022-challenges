@@ -8,6 +8,7 @@ There are a limited number of searches whether you have an account or not, so ma
 
 ## Hint
 * How do you filter through an Excel spreadsheet for the information you want?
+* Very-small-aperture terminal
 
 ## Solution
 * Pick key words from the challenge text to filter, specifically `satellite` and `SNMP` 
