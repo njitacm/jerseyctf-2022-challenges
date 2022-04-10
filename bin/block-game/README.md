@@ -5,6 +5,7 @@
 
 ## Hint
 * This doesn't look like a standalone program, I wonder if it depends on something else to run...
+* If you're getting a command not found error, try building the game from source
 
 ## Solution
 
