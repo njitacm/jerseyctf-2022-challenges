@@ -3,7 +3,7 @@
 ## Challenge Text
 * Use the memory image in the Google drive link below.  An attacker left behind some evidence in the network connections.  Follow the attacker's tracks to find the flag.
 
-https://drive.google.com/drive/folders/1ubSx3pwHOSZ9oCShHBPToVdHjTev7hXL 
+https://drive.google.com/drive/folders/1ubSx3pwHOSZ9oCShHBPToVdHjTev7hXL OR https://drive.google.com/drive/folders/192ELa6W5OZyeWi3DlRd-_TndzN2p_Xz8?usp=sharing
 
 ## Hint
 * Try connecting to the attacker's system.
