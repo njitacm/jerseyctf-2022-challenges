@@ -14,7 +14,7 @@ There are a limited number of searches whether you have an account or not, so ma
 * Research [Shodan search filters](https://www.shodan.io/search/filters), different Shodan key words for a satellite: `vsat`, and the SNMP UDP port: `161` 
 * In Shodan, search `"vsat" port:161` 
 * Click one of the returned hosts, and note the vulnerability CVE for the flag.
-* Flag: `jctf{CVE-2018-19052)`
+* Flag: `jctf{CVE-2018-19052}`
 
 ## Credit
 * Developed by [Logan](https://github.com/Git-Logan)
