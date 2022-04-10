@@ -4,7 +4,7 @@
 
 ## Challenge Text
 * We have intercepted an audio transmission from a known criminal organization. It is obviously encrypted in some way, but we've had no luck deciphering it. Can you help us out?
-* https://drive.google.com/drive/folders/1U5n9f1EC7FcTiVzA3mQV7FIuPWEtNK_3?usp=sharing
+* https://drive.google.com/drive/folders/1U5n9f1EC7FcTiVzA3mQV7FIuPWEtNK_3?usp=sharing OR https://drive.google.com/drive/folders/1aAu_r12oAOzDMuaJ88tE2fTQ1-wyV1vv?usp=sharing
 
 ## Hint
 * No hints.
