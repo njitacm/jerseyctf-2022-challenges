@@ -7,6 +7,7 @@ NOTE: The provided Python file, `buster.py`, should be run on a server and not b
 
 ## Hint
 * What do HTTP response codes actually mean?
+* The intended solution is a directory brute force.
 
 ## Solution
 
