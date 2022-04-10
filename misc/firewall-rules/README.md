@@ -6,6 +6,7 @@
 
 ## Hint
 * Sometimes Google searches lead to numbers!
+* Focus on remote access.
 
 ## Solution
 * Pull up list of TCP and UDP port numbers: https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
