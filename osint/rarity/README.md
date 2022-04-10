@@ -3,9 +3,11 @@
 ## Challenge Text
 * With three belonging to a respective company, there is only a two-digit number amount of this entity left in the world. There is one near this picture... how close can you get to it?
 * The flag format is the coordinates in decimal degrees notation, for example: `jctf{-65.91374,-10.81140}`
+* Get the coordinates **at the gate**
 
 ## Hint
 * Aren't sub sandwiches great?
+* https://en.wikipedia.org/wiki/Hindenburg_disaster
 
 ## Solution
 * Note the **330** area code in the bottom right corner of the picture which is in the Akron, Ohio area.
