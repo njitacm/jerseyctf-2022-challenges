@@ -26,9 +26,9 @@ Development of Challenges for JerseyCTF 2022, hosted by [NJIT ACM](https://njit.
 ---
 
 ## Additional Resources
-* [2021 Challenges](https://github.com/njitacm/jerseyctf-2021-challenges)
-* [2021 Tech Talks](https://www.youtube.com/playlist?list=PLrcTWWy-esnDYt1niwIETam5s-nljoeD9)
+* [Tech Talk Playlist](https://youtube.com/playlist?list=PLrcTWWy-esnCuaiEMSj6Bst4phnq-Qg6B)
 * [Information and Registration Site](https://jerseyctf.com)
+* [2021 GitHub Repository](https://github.com/njitacm/jerseyctf-2021-challenges)
 
 ---
 
