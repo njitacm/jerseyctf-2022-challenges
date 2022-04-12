@@ -20,7 +20,7 @@ Development of Challenges for JerseyCTF 2022, hosted by [NJIT ACM](https://njit.
 
 ---
 
-## Interested in Contributing?
+## Interested in Contributing Challenges or Writeups?
 * Check out [contributing.md](.github/contributing.md)
 
 ---
