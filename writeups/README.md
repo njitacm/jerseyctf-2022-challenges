@@ -12,7 +12,7 @@
 <!-- Where anyone with websites will have the ctf -->
 | name/handle | Description / URl 
 | :--- | :--: 
-|  | 
+| CTFtime Writeups | https://ctftime.org/event/1590/tasks/
 
 ---
 ## Contributor write
