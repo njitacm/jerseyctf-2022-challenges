@@ -4,11 +4,11 @@
 | Speaker Name  | Description | Flag
 |:-- | :-- | :---
 | brian | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{0fJlvhqcXy}
-| jon | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{FG1tmTCwAc}
+| jon | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{couch_light_pencil}
 | kevin | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{icCDdOlDW0}
-| max | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{PBj6HClnZV}
-| debbi | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{SRw7gSIZbB}
-| pinky/eric | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{6xXARJfw1U}
+| max | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{idea_television_sleep}
+| debbi | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{word_testing_shirt}
+| pinky/eric | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{plane_bowl_mouse}
 | pat/jermaine/joe | Heisters can attend tech talks to refine their bank (cyber)security skills. | jctf{78POYdCGzf}
 
 ## Sponsor Challenges
